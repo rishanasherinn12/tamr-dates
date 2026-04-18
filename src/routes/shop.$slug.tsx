@@ -72,7 +72,7 @@ function ProductPage() {
             <div className="rounded-xl border border-border p-4">
               <div className="text-[11px] uppercase tracking-[0.18em] text-muted-foreground">Benefits</div>
               <ul className="mt-1 space-y-0.5">
-                {product.benefits.slice(0, 3).map((b) => (
+                {product.benefits.slice(0, 3).map((b: string) => (
                   <li key={b}>· {b}</li>
                 ))}
               </ul>
