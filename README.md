@@ -13,7 +13,6 @@ The project highlights how AI-assisted tools can be used to rapidly design and b
 * Clean, modern, and responsive UI design
 * Dedicated product pages with detailed descriptions and pricing
 * Kerala-wide ordering flow
-* UPI payment support (GPay, PhonePe)
 * Festival offers (Ramadan & Eid special collections)
 * Blog section for recipes and health benefits of dates
 * Customer testimonials for trust and credibility
